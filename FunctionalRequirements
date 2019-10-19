@@ -1,0 +1,6 @@
+Functional Requirements:
+1.    The customer has control over the trip they want to go on and when they want to go on it
+2.    The customer has control of making changes to the trip however they want to, based on whatever reasons
+3.    In order to change the trips, the customer has the opportunity to contact their agent
+4.    The traveling services should generate the people traveling day to day and their travel times
+5.    Each customer will have their unique ticket number which they will travel with no matter the mode of transportation.
